@@ -31,6 +31,15 @@ It allows administrators to manage students, classes, and authentication.
 
 ## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 👨‍🎓 Students
+![Students](students.png)
+
 
 ## 👨‍💻 Author
 **Achraf Benzha**
